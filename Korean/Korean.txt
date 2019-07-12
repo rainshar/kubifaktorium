@@ -1,4 +1,4 @@
-﻿language=Korean
+language=Korean
 locales=KO
 fallback=English
 
@@ -1446,7 +1446,7 @@ UI.Recruit.Title = 적:
 UI.Recruitment = 모집
 UI.RefuseAll = Refuse all
 UI.RefuseAll.Desc = Set the ##stockpilezone to refuse all goods.
-UI.RelativeStrength.Equal = Enemy strength: Equal.
+UI.RelativeStrength.Equal = Enemy strength: 동등함.
 UI.RelativeStrength.Hard = Enemy strength: Hard.
 UI.RelativeStrength.Inferior = Enemy strength: Inferior.
 UI.RelativeStrength.Low = Enemy strength: Low.
